@@ -1,0 +1,15 @@
+C:\Users\Олег\Desktop\C#\Example_C#\Lesson2\Ex013\bin\Debug\net6.0\Ex013.exe
+C:\Users\Олег\Desktop\C#\Example_C#\Lesson2\Ex013\bin\Debug\net6.0\Ex013.deps.json
+C:\Users\Олег\Desktop\C#\Example_C#\Lesson2\Ex013\bin\Debug\net6.0\Ex013.runtimeconfig.json
+C:\Users\Олег\Desktop\C#\Example_C#\Lesson2\Ex013\bin\Debug\net6.0\Ex013.dll
+C:\Users\Олег\Desktop\C#\Example_C#\Lesson2\Ex013\bin\Debug\net6.0\Ex013.pdb
+C:\Users\Олег\Desktop\C#\Example_C#\Lesson2\Ex013\obj\Debug\net6.0\Ex013.csproj.AssemblyReference.cache
+C:\Users\Олег\Desktop\C#\Example_C#\Lesson2\Ex013\obj\Debug\net6.0\Ex013.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Олег\Desktop\C#\Example_C#\Lesson2\Ex013\obj\Debug\net6.0\Ex013.AssemblyInfoInputs.cache
+C:\Users\Олег\Desktop\C#\Example_C#\Lesson2\Ex013\obj\Debug\net6.0\Ex013.AssemblyInfo.cs
+C:\Users\Олег\Desktop\C#\Example_C#\Lesson2\Ex013\obj\Debug\net6.0\Ex013.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\C#\Example_C#\Lesson2\Ex013\obj\Debug\net6.0\Ex013.dll
+C:\Users\Олег\Desktop\C#\Example_C#\Lesson2\Ex013\obj\Debug\net6.0\refint\Ex013.dll
+C:\Users\Олег\Desktop\C#\Example_C#\Lesson2\Ex013\obj\Debug\net6.0\Ex013.pdb
+C:\Users\Олег\Desktop\C#\Example_C#\Lesson2\Ex013\obj\Debug\net6.0\Ex013.genruntimeconfig.cache
+C:\Users\Олег\Desktop\C#\Example_C#\Lesson2\Ex013\obj\Debug\net6.0\ref\Ex013.dll
