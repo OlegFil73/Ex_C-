@@ -1,0 +1,15 @@
+C:\Users\Олег\Desktop\C#\Example_C#\Lesson8\Ex56\obj\Debug\net6.0\Ex56.csproj.AssemblyReference.cache
+C:\Users\Олег\Desktop\C#\Example_C#\Lesson8\Ex56\obj\Debug\net6.0\Ex56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Олег\Desktop\C#\Example_C#\Lesson8\Ex56\obj\Debug\net6.0\Ex56.AssemblyInfoInputs.cache
+C:\Users\Олег\Desktop\C#\Example_C#\Lesson8\Ex56\obj\Debug\net6.0\Ex56.AssemblyInfo.cs
+C:\Users\Олег\Desktop\C#\Example_C#\Lesson8\Ex56\obj\Debug\net6.0\Ex56.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\C#\Example_C#\Lesson8\Ex56\bin\Debug\net6.0\Ex56.exe
+C:\Users\Олег\Desktop\C#\Example_C#\Lesson8\Ex56\bin\Debug\net6.0\Ex56.deps.json
+C:\Users\Олег\Desktop\C#\Example_C#\Lesson8\Ex56\bin\Debug\net6.0\Ex56.runtimeconfig.json
+C:\Users\Олег\Desktop\C#\Example_C#\Lesson8\Ex56\bin\Debug\net6.0\Ex56.dll
+C:\Users\Олег\Desktop\C#\Example_C#\Lesson8\Ex56\bin\Debug\net6.0\Ex56.pdb
+C:\Users\Олег\Desktop\C#\Example_C#\Lesson8\Ex56\obj\Debug\net6.0\Ex56.dll
+C:\Users\Олег\Desktop\C#\Example_C#\Lesson8\Ex56\obj\Debug\net6.0\refint\Ex56.dll
+C:\Users\Олег\Desktop\C#\Example_C#\Lesson8\Ex56\obj\Debug\net6.0\Ex56.pdb
+C:\Users\Олег\Desktop\C#\Example_C#\Lesson8\Ex56\obj\Debug\net6.0\Ex56.genruntimeconfig.cache
+C:\Users\Олег\Desktop\C#\Example_C#\Lesson8\Ex56\obj\Debug\net6.0\ref\Ex56.dll
